@@ -1,0 +1,16 @@
+body{
+    background-color: slategrey;
+color: orchid;
+}
+.btn-default-heading{
+    width: 90%;
+    font-size: 50px;
+}
+.object{
+    color: gold;
+}
+#camera{
+    border: royalblue;
+    width: 350;
+    height: 350;
+}
